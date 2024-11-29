@@ -1,0 +1,20 @@
+.container{
+    margin: 100px;
+}
+
+.buy-now{
+      background-image: linear-gradient(to bottom, #1a1718 0%, #1f1d1e 100%);
+        color: #faf5f5;
+        border: none;
+        border-radius: 8px;
+        padding: 9px 25px;
+        cursor: pointer;
+         
+}
+ .gadgets-item{
+    background-color: burlywood;
+    border-radius: 10px;
+ }
+ .carousel-item{
+    padding: 10px 20px;
+ }
